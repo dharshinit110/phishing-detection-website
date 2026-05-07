@@ -1,0 +1,17 @@
+url,label
+http://example.com,0
+https://www.google.com,0
+https://www.bankofamerica.com,0
+http://192.168.0.1/login,1
+http://login.verify-account.com,1
+https://secure-login.paypal.com,0
+http://update-your-bank-info.com,1
+http://verify-paypal.com/login,1
+https://myuniversity.edu/portal,0
+http://secure-mybank.com-login.com,1
+https://github.com,0
+http://free-gift-card-bank.com,1
+http://verify-login-update.com,1
+https://accounts.google.com,0
+http://paypal.com.verify-login.com,1
+
